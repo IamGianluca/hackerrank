@@ -1,6 +1,6 @@
 import pytest
 
-from hrank.data_structures.arrays import reverse_array
+from hrank.data_structures.arrays.arrays import reverse_array
 
 
 @pytest.mark.parametrize('arr,expected', [
