@@ -1,6 +1,6 @@
 import pytest
 
-from hrank.data_structures._2d_array import (
+from hrank.data_structures.arrays._2d_array import (
     Extractor,
     Hourglass
 )

@@ -1,9 +1,6 @@
 import os
-import sys
 
-#
-# Complete the reverseArray function below.
-#
+
 def reverse_array(a):
     return a[::-1]
 
