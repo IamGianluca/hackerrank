@@ -1,6 +1,6 @@
 import pytest
 
-from hrank._30_days_of_code._05_class_vs_instance import Person
+from hrank._30_days_of_code._04_class_vs_instance import Person
 
 
 def test_person_creation(capsys):

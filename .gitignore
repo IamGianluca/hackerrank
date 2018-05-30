@@ -1,6 +1,12 @@
-.pytest_cache
+# build files
 build/
 dist/
 *.egg-info
+
+# byte-compiled and cache
 *.pyc
 __pycache__
+
+# pytest
+.pytest_cache
+.coverage

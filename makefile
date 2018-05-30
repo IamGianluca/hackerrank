@@ -3,5 +3,5 @@ build:
 	pip install -e .
 
 
-tests:
-	pytest --cov
+test:
+	pytest -svv --cov hrank
