@@ -1,7 +1,7 @@
 
 
 def reverse_array(array):
-    print(' '.join(array.split(' ')[::-1]))
+    print(' '.join(reversed(array.split(' '))))
 
 
 if __name__ == '__main__':
